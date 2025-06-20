@@ -50,3 +50,8 @@ To visualize model performance, I plotted graphs of training and validation accu
 *OUTPUT*
 
 The final result was a functional deep learning image classification model that can correctly predict fashion categories with high accuracy. The model was designed to be lightweight, fast, and easy to adapt to other similar image datasets.This task gave me hands-on experience with the core concepts of deep learning, including building neural networks, working with image data, training models, preventing overfitting with dropout, and interpreting training curves. It served as a strong foundation for more advanced deep learning tasks like CNNs and transfer learning.
+
+
+![Image](https://github.com/user-attachments/assets/be01c47a-e6a7-4502-8b16-ca888a9ebd4d)
+
+![Image](https://github.com/user-attachments/assets/92566108-8b24-4f24-81d8-d6e676ae9497)
